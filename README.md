@@ -7,16 +7,21 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
+My name is Jeffrey Ye, pronouns he/him. I'm a first year in GDIM and I mainly play turn-based or strategy games. I'm taking this class because it is part of my course requirements and I have very minimal experience in game development over scratch and java. I hope to build games that I myself want to play/
+
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [ ] Game Design & Interactive Media
+    - [X] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+I'm hoping to learn basic game programming and also skills that can be carried over to other classes and the future.
+
 4. What, if anything, are you nervous about for this class?
+Originally, I was concerned about using the Unity engine but after your spiel about not needing to know any coding at all, I think I will do fine in this course.
 
 ## Prior Experience
 
@@ -25,10 +30,13 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
+Java
 
 2. Game development (any engine)
+Scratch/Java
 
 3. Unity
+No experience
 
 ### Programming & Game Development Concepts
 
@@ -40,14 +48,19 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
+N/A
 
 2. Scope management
+Managing the size and resources required for a game
 
 3. Iteration
+Heard this term but not entirely sure the meaning
 
 4. Object-Oriented programming
+Programming languages that use objects :)? I know java and python are but not entirely sure
 
 5. Model-View-Controller architecture
+N/A
 
 ## Complete!
 
